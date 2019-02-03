@@ -8,6 +8,7 @@ public class DemoClass  {
 	String addm1;
 	Strig addm2;
 	String addm3;
+	String addm4;
 	public int getA() {
 		return a;
 	}
