@@ -6,6 +6,7 @@ public class DemoClass  {
 	String name;
 	String add;
 	String addfetch1;
+	String addfetch2;
 	public int getA() {
 		return a;
 	}
