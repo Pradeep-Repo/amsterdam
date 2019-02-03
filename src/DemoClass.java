@@ -5,12 +5,15 @@ public class DemoClass  {
 	int a;
 	String name;
 	String add;
-	String addm1;
+		String addm1;
 	Strig addm2;
 	String addm3;
 	String addm4;
 	String addm5;
 	String addm6;
+	String addfetch1;
+	String addfetch2;
+	String addfetch3;
 	public int getA() {
 		return a;
 	}
