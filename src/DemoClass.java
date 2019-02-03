@@ -9,6 +9,7 @@ public class DemoClass  {
 	Strig addm2;
 	String addm3;
 	String addm4;
+	String addm5;
 	public int getA() {
 		return a;
 	}
