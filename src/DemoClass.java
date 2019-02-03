@@ -10,6 +10,7 @@ public class DemoClass  {
 	String addm3;
 	String addm4;
 	String addm5;
+	String addm6;
 	public int getA() {
 		return a;
 	}
